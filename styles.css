@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    color: #ECECEC;
+
+    }
+
+
+    h1 {
+        font-size: 200%;
+        width: 10%;
+        margin: 0 auto 0 auto;
+        margin-top: 25px;
+        color: #54B435;
+        font-family: 'Share Tech Mono', sans-serif;
+        font-weight: normal;
+    }
+
+    
+    
+    h2 {
+        font-size: 150%;
+        width: 10%;
+        margin: 0 auto 0 auto;
+        color: #54B435;
+        font-family: 'Share Tech', sans-serif;
+        font-weight: normal;
+        padding-bottom: 10px;
+    
+    }
+    
+    
+    h3 {
+        font-size: 100%;
+        width: 10%;
+        margin: 0 auto 0 auto;
+        color: #54B435;
+        font-family: 'Share Tech', sans-serif;
+        font-weight: normal;
+
+    }
+
+
+    p {
+        line-height: 1;
+    }
+
+    hr {
+        border: dotted #20262E 6px;
+        border-bottom: none;
+        width: 4%;
+        margin: 100px auto;
+
+    }
+
+
+    a{ 
+      color:#ECECEC;
+      font-family: 'Montserrat', sans-serif;
+      text-decoration: none;
+
+
+    }
+
+    a:hover {
+        color: #54B435;
+
+    }
+    
+    .top-container {
+        background-color: black;
+        width: 100%;
+        height: auto;
+        padding: 10px;
+        border-style: none;
+        margin-top: 0;
+        }
+
+    .middle-container {
+        background-color: black;
+
+    }
+
+    .bottom-container {
+        background-color: black;
+        width: 100%;
+        height: auto;
+        padding: 50px 0 20px;
+        border-style: none;
+        margin-bottom: 0;
+    }
+
+    .skill-row {
+      width: 50%;
+      margin: 100px auto 100px auto;
+      text-align: center;
+
+    }
+
+
+    .intro {
+        width: 30%;
+        margin: auto;
+        
+        }
+
+
+    .contact-message {
+        width: 40%;
+        margin: 40px auto 60px;
+    }
+
+
+    .copyright {
+        color: #ECECEC;
+        font-size: 0.75rem;
+        padding: 20px 0;
+
+    }
+
+
+    .photshop-img {
+        width: 25%;
+        float: left;
+        margin-right: -20%;
+    }
+
+
+    .coding-img {
+        width: 25%;
+        float: right;
+        margin-left: -30%;
+    }
+
+
+    .btn {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0px;
+        font-family: 'Montserrat', sans-serif;
+        color: #22ff00;
+        font-size: 34px;
+        background: #000000;
+        padding: 10px 20px 10px 20px;
+        border: solid #9ba0a3 2px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #ffffff;
+        background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+        background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+        text-decoration: none;
+      }
